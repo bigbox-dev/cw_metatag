@@ -1,0 +1,10 @@
+{
+  "name": "Drupal/cw_metatag",
+  "description": "Get metatag data with jsonapi",  
+  "minimum-stability": "dev",
+  "type": "drupal-module",
+  "version": "1.0.0",  
+  "require": {
+    "drupal/metatag": "^1.3"
+  }
+}
